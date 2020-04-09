@@ -1,0 +1,32 @@
+{
+    "success":true,
+    "data": 
+    [{
+        "name": "Personal",
+        "value": 400
+      },
+      {
+        "name": "Grocery",
+        "value": 300
+      },
+      {
+        "name": "Transportation",
+        "value": 300
+      },
+      {
+        "name": "Entertainment",
+        "value": 200
+      },
+      {
+        "name": "Restaurants",
+        "value": 278
+      },
+      {
+        "name": "Health and Education",
+        "value": 189
+      },
+      {
+        "name": "Home and Office",
+        "value": 189
+      }]
+    }
