@@ -6,7 +6,7 @@ class Home extends PureComponent{
     render(){
         return(
             <div>
-                <img src = {familyPic}  height = "100%" width = "100%"/>
+                <img src = {familyPic}  height = "100%" width = "100%" alt = "Familys"/>
             </div>
         )
     }
